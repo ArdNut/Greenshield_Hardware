@@ -5,12 +5,13 @@ of the Greenshield Arduino shield.
 
 These were creating using CadSoft's Eagle design tool version 6.5.0 for Linux.
 
-Created for "Arduino in a Nutshell", 2015, J. M. Hughes
-Chapter 10
+Created for chapter 10 of "Arduino in a Nutshell" by J. M. Hughes
 
 Copyight 2015-2016 John M. Hughes
+
 O'Reilly appreciates, but does not require, attribution. An attribution usually
 includes the title, author, publisher, and ISBN. For example:
+
 "Arduino in a Nutshell, by John M. Hughes. Copyright 2016 O’Reilly
 Media, Inc., ISBN: 978-1-4919-2176-0.
 
