@@ -7,14 +7,6 @@ These were creating using CadSoft's Eagle design tool version 6.5.0 for Linux.
 
 Created for chapter 10 of "Arduino in a Nutshell" by J. M. Hughes
 
-File Manifest:
-- greenshield.cmp     Top layer
-- greenshield.drd     Drill list
-- greenshield.dri     Drill station info
-- greenshield.gpi     Photoplotter info
-- greenshield.sol     Bottom layer
-- README.txt          This file
-
 Copyight 2015-2016 John M. Hughes
 
 O'Reilly appreciates, but does not require, attribution. An attribution usually
